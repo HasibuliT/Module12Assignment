@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/HasibuliT/Module12Assignment/assets/66546794/201e0601-0675-451d-881b-4ea837e2cded" width="400" height="720"/>
+  <img src="https://github.com/HasibuliT/Module12Assignment/assets/66546794/165e58e8-2635-4ce2-8822-fae85703774c" width="400" height="720"/>
 </p>
 
 <p align="center">
